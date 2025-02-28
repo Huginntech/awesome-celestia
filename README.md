@@ -1224,6 +1224,7 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 #### Telegram https://t.me/nodersteam
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
+### Contributions by Huginn.tech
 ### Mainnet Services
 - Snapshot & Installation Guide & Live Peers & Addrbook Service: https://services.huginn.tech/network/celestia
 - RPC: celestia-rpc.huginn.tech
