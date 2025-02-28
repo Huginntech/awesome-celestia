@@ -1224,4 +1224,67 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 #### Telegram https://t.me/nodersteam
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
+### Mainnet Services
+Snapshot & Installation Guide & Live Peers & Addrbook Service: https://services.huginn.tech/network/celestia
+RPC: celestia-rpc.huginn.tech
+API: celestia-api.huginn.tech
+gRPC: celestia-grpc.huginn.tech:12090
+Seed Node: 30c99851b5e21e22a7e6ce1384fa23d3cfd4e30e@celestia-seed-huginn.tech:12056
+
+Testnet Mocha-4 Validator:  https://www.mintscan.io/celestia-testnet/validators/celestiavaloper10qhvae5p9uggvtj0n7maaqy6luwqxdhhtza50d
+
+Bridge Node Id: 12D3KooWJJSSuJnj8wbzxQNfV7drntfQxDZJNeUsmWMy7fy5WaJt
+
+### Testnet Services
+Snapshot & Installation Guide & Live Peers & Addrbook Service: https://services.huginn.tech/network/celestia-testnet
+RPC: celestia-testnet-rpc.huginn.tech
+API: celestia-testnet-api.huginn.tech
+gRPC: celestia-testnet-grpc.huginn.tech:12090
+Seed Node: d2ed02822695fb06868667349c0e77376a94eed7@celestia-testnet-seed.huginn.tech:12056
+
+### Testnet Archive Endpoints
+Archive RPC: celestia-archive-testnet-rpc.huginn.tech
+Archive API: celestia-archive-testnet-api.huginn.tech
+Archive gRPC: celestia-archive-testnet.grpc.huginn.tech:12090
+
+Bridge Node Testnet Endpoint: celestia-full-da-mocha-4.huginn.tech
+
+### Huginn Guard – Staking Security Bot
+Huginn Guard is a Telegram bot designed to help Celestia stakers secure their assets by monitoring wallet activity. 
+Telegram Link: https://t.me/Huginn_Guardbot
+GitHub: https://github.com/Huginntech/HuginnGuard
+https://cosmos.wiki/huginn-tools-&-services/wallet-recovery
+
+### Cosmos Wiki - Celestia Information
+Cosmos Wiki provides extensive information about the Celestia network. In addition to technical details, it includes links to local communities, dApps & tools, governance insights, and ecosystem-related content. https://cosmos.wiki/blockchains/celestia
+
+Relayers Celestia Mainnet: https://relayers.smartstake.io/relayer/D27EE330254D4F6A
+
+Celestia Light Node Script: This script allows you to run a Celestia Light Node with a single command. It includes 5 different language options and an option to remove the node. You can find more details and the script here: https://github.com/kocality/celestia-light
+
+### Threads
+Celestia Ecosystem: Weekly Updates (9 - 23 February): https://x.com/kkocality/status/1893720096184402199
+
+Celestia Ecosystem: Weekly Updates (25 January - 9 February)
+https://x.com/kkocality/status/1888353185737154941
+
+Celestia Ecosystem: Weekly Updates (28 December - 11 January)
+https://x.com/kkocality/status/1878185887982325853
+
+Celestia Ecosystem: Weekly Updates (11-25 January)
+https://x.com/kkocality/status/1883176010570453061
+
+Celestia Ecosystem: Weekly Updates (21-28 December)
+https://x.com/kkocality/status/1873044261719163147
+
+Celestia Roadmap Review
+https://x.com/kkocality/status/1832013630600102147
+
+### Article:
+https://kocality.medium.com/5fc4cff092b9 (TR)
+https://blog.huginn.tech/fb0cd5ffbdec (TR)
+
+### X Post & Social 
+https://docs.google.com/document/d/1pgwIOb4EZ0Bk0vt4PEmSUIT_uhsdnGSIdDYf7QdeORs/edit?usp=sharing
+
 ---
